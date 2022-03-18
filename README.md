@@ -4,7 +4,6 @@ This task was a part of the [Shared Task on Medical Video Question Answering](ht
 Consider a medical question, “How to place a tourniquet in case of fingertip avulsions? ”, the textual answer to this question will be hard to understand and act upon without visual aid. In order to provide visual aid, first, we need to identify the relevant video, which is medical and instructional in nature. Once we find a relevant video, it is often the case that the entire video can not be considered as the answer to the given question. Instead, we want to refer to a particular temporal segment, or moment, from the video, where the answer is being shown or the explanation is illustrated in the video. We believe medical videos may provide the best possible answers to many first aid, medical emergency, and medical education questions.
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 
@@ -12,14 +11,15 @@ Consider a medical question, “How to place a tourniquet in case of fingertip a
 <thead>
   <tr>
     <th> 
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/OaSovqEimyA"frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+      [![IMAGE](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)]("https://www.youtube.com/embed/OaSovqEimyA")
+
 </th>
-    <th><iframe width="100%" height="315" src="https://www.youtube.com/embed/YqHv_8rKkeE">
-</iframe></th>
-    <th><iframe width="100%" height="315" src="https://www.youtube.com/embed/hE63VMlLyB8">
-</iframe></th>
+    <th>
+      [![IMAGE](https://img.youtube.com/vi/YqHv_8rKkeE/0.jpg)]("https://www.youtube.com/embed/YqHv_8rKkeE")
+    </th>
+    <th>
+     [![IMAGE](https://img.youtube.com/vi/hE63VMlLyB8/0.jpg)]("https://www.youtube.com/embed/hE63VMlLyB8")
+    </th>
   </tr>
 </thead>
 <tbody>

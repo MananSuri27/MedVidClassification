@@ -6,7 +6,7 @@ Consider a medical question, “How to place a tourniquet in case of fingertip a
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
-      [![IMAGE](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)](https://www.youtube.com/watch?v=OaSovqEimyA "image")
+[![IMAGE](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)](https://www.youtube.com/watch?v=OaSovqEimyA "image")
 
 
 
@@ -14,14 +14,17 @@ Consider a medical question, “How to place a tourniquet in case of fingertip a
 <thead>
   <tr>
     <th> 
-      [![IMAGE](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)](https://www.youtube.com/embed/OaSovqEimyA "image")
+          
+        <a href = "https://www.youtube.com/embed/OaSovqEimyA"> <img src="https://img.youtube.com/vi/OaSovqEimyA/0.jpg"> </img> </a>
+
 
 </th>
     <th>
-      [![IMAGE](https://img.youtube.com/vi/YqHv_8rKkeE/0.jpg)](https://www.youtube.com/embed/YqHv_8rKkeE)
-    </th>
+          
+          <a href = "https://www.youtube.com/embed/YqHv_8rKkeE"> <img src="https://img.youtube.com/vi/YqHv_8rKkeE/0.jpg"> </img> </a>
+       </th>
     <th>
-     [![IMAGE](https://img.youtube.com/vi/hE63VMlLyB8/0.jpg)](https://www.youtube.com/embed/hE63VMlLyB8)
+          <a href="https://www.youtube.com/embed/hE63VMlLyB8"> <img src="https://img.youtube.com/vi/hE63VMlLyB8/0.jpg"> </a>
     </th>
   </tr>
 </thead>

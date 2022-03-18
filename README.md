@@ -11,7 +11,7 @@ Consider a medical question, “How to place a tourniquet in case of fingertip a
 <thead>
   <tr>
     <th> 
-      [![IMAGE](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)](https://www.youtube.com/embed/OaSovqEimyA)
+      [![IMAGE](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)](https://www.youtube.com/embed/OaSovqEimyA "image")
 
 </th>
     <th>

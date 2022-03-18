@@ -7,8 +7,10 @@ Consider a medical question, “How to place a tourniquet in case of fingertip a
 <thead>
   <tr>
     <th> 
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/OaSovqEimyA">
-</iframe></th>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/OaSovqEimyA"frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</th>
     <th><iframe width="100%" height="315" src="https://www.youtube.com/embed/YqHv_8rKkeE">
 </iframe></th>
     <th><iframe width="100%" height="315" src="https://www.youtube.com/embed/hE63VMlLyB8">

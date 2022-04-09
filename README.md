@@ -9,7 +9,7 @@ Consider a medical question, “How to place a tourniquet in case of fingertip a
 | [![IMAGE](https://img.youtube.com/vi/OaSovqEimyA/0.jpg)](https://www.youtube.com/embed/OaSovqEimyA) | [![IMAGE](https://img.youtube.com/vi/YqHv_8rKkeE/0.jpg)](https://www.youtube.com/embed/YqHv_8rKkeE) | [![IMAGE](https://img.youtube.com/vi/hE63VMlLyB8/0.jpg)](https://www.youtube.com/embed/hE63VMlLyB8) | 
 :-------------------------:|:-------------------------:|:-------------------------:
 Adult CPR | What causes myeloma bone pain? | HOW TO ADD VOLUME TO FINE HAIR
-Medical Instructional | Medical Non-instructional | Non Instructional
+Medical Instructional | Medical Non-instructional | Non Medical
 
 - <b>Medical Instructional</b>: An instructional medical video for non-professionals should clearly demonstrate a medical procedure providing enough details to reproduce the procedure and achieve the desired results without prior training. The accompanying narrative should be to the point and should clearly describe the steps in the visual content. Suppose a valid medical or health-related question is aligned with an instructional medical video. In that case, it should explain/answer the medical question with a demonstration or should be a tutorial/educational video where someone (e.g., a doctor or a medical professional) demonstrates a procedure related to the medical question or should be a how-to video about the medical or health-related question.
 
